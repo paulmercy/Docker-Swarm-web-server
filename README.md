@@ -1,6 +1,4 @@
-# Docker-Swarm-web-server
-
-# Docker Swarm Load Balancer (lb01) Setup
+# Docker-Swarm-web-server, Docker Swarm Load Balancer (lb01) Setup
 
 This repository contains a Python script that automates the setup of a Docker Swarm load balancer (lb01) on a manager node in Linode, with worker nodes in AWS.
 
